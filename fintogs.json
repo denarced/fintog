@@ -1,0 +1,160 @@
+{
+    "togs": [
+        {
+            "name": "Väinö Leppänen",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://www.instagram.com/denarced"
+                },
+                {
+                    "type": "site",
+                    "url": "https://www.flickr.com/photos/denarced"
+                }
+            ]
+        },
+        {
+            "name": "Marko Pennanen",
+            "urls": [
+                {
+                    "type": "site",
+                    "url": "https://markopennanen.kuvat.fi"
+                },
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/marpe.photography"
+                }
+            ]
+        },
+        {
+            "name": "Rami Myllymaa",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/riiviomaista"
+                }
+            ]
+        },
+        {
+            "name": "Mikko Rajala",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/mikkorajala"
+                }
+            ]
+        },
+        {
+            "name": "Juuso Koro",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/juusokuvaa"
+                },
+                {
+                    "type": "site",
+                    "url": "https://www.juusokoro.fi"
+                }
+            ]
+        },
+        {
+            "name": "Elmeri Elo",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/elonkuvaus"
+                }
+            ]
+        },
+        {
+            "name": "Saimi Airaksinen",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/pucks.and.pictures"
+                }
+            ]
+        },
+        {
+            "name": "Jiri Halttunen",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/valokuvaamojirihalttunen"
+                }
+            ]
+        },
+        {
+            "name": "Arno Hämäläinen",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/hockeygrapher"
+                }
+            ]
+        },
+        {
+            "name": "Kimmo Virkki",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/kimmo.virkki"
+                }
+            ]
+        },
+        {
+            "name": "Janne Ekman",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/some_productions"
+                }
+            ]
+        },
+        {
+            "name": "Video Hasari",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/videohasari"
+                }
+            ]
+        },
+        {
+            "name": "Samira Lee",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/samiralee_com"
+                }
+            ]
+        },
+        {
+            "name": "Jimi Soinila",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/sportraitsbyjimi"
+                }
+            ]
+        },
+        {
+            "name": "Mika Alavesa",
+            "urls": [
+                {
+                    "type": "site",
+                    "url": "https://mikaalavesa.kuvat.fi"
+                }
+            ]
+        },
+        {
+            "name": "Markku Ekholm",
+            "urls": [
+                {
+                    "type": "site",
+                    "url": "https://markkue.kuvat.fi"
+                }
+            ]
+        }
+    ]
+}

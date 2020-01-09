@@ -155,6 +155,24 @@
                     "url": "https://markkue.kuvat.fi"
                 }
             ]
+        },
+        {
+            "name": "Ari Hyvönen",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/arihyvonenphoto"
+                }
+            ]
+        },
+        {
+            "name": "Juha Leskinen",
+            "urls": [
+                {
+                    "type": "instagram",
+                    "url": "https://instagram.com/juha.photo"
+                }
+            ]
         }
     ]
 }
